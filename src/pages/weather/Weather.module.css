@@ -1,0 +1,16 @@
+.weather {
+    width: 100%;
+    display: flex;
+}
+
+.weather_detail {
+    width: 50%;
+    height: 100%;
+    border-right: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.weather_item {
+    width: 50%;
+    height: 100%;
+    overflow-y: hidden;
+}

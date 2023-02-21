@@ -1,0 +1,31 @@
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 20%;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    padding: 0 24px;
+    cursor: pointer;
+}
+
+.item .today {
+    font-size: 30px;
+    color: white;
+}
+
+.item .weather_box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item .weather_box .temperature {
+    font-size: 40px;
+    color: white;
+    margin-right: 12px;
+}
+
+.item .weather_box .icon {
+    font-size: 40px;
+    color: white;
+}

@@ -1,0 +1,12 @@
+.location {
+    display: flex;
+    flex: 1 1 auto;
+}
+
+.location .map {
+    flex-shrink: 0;
+}
+
+.location .detail {
+    width: 100%;
+}

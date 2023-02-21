@@ -1,0 +1,32 @@
+.locationDetail {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 12px;
+}
+
+.locationDetail .address {
+    font-size: 18px;
+    color: white;
+}
+
+.locationDetail .temperature {
+    margin-top: 24px;
+    font-size: 30px;
+    color: white;
+}
+
+.locationDetail .icon {
+    margin-top: 10px;
+    font-size: 30px;
+    color: white;
+}
+
+.locationDetail .description {
+    margin-top: 10px;
+    font-size: 30px;
+    color: white;
+}

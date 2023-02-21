@@ -1,0 +1,1497 @@
+{
+    "data": {
+        "cod": "200",
+        "message": 0,
+        "cnt": 40,
+        "list": [
+            {
+                "dt": 1676818800,
+                "main": {
+                    "temp": -1.14,
+                    "feels_like": -3.5,
+                    "temp_min": -1.14,
+                    "temp_max": -0.94,
+                    "pressure": 1025,
+                    "sea_level": 1025,
+                    "grnd_level": 1016,
+                    "humidity": 66,
+                    "temp_kf": -0.2
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "맑음",
+                        "icon": "01n"
+                    }
+                ],
+                "clouds": {
+                    "all": 0
+                },
+                "wind": {
+                    "speed": 1.79,
+                    "deg": 253,
+                    "gust": 3.81
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-19 15:00:00"
+            },
+            {
+                "dt": 1676829600,
+                "main": {
+                    "temp": -1.23,
+                    "feels_like": -3.49,
+                    "temp_min": -1.4,
+                    "temp_max": -1.23,
+                    "pressure": 1025,
+                    "sea_level": 1025,
+                    "grnd_level": 1016,
+                    "humidity": 67,
+                    "temp_kf": 0.17
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "맑음",
+                        "icon": "01n"
+                    }
+                ],
+                "clouds": {
+                    "all": 0
+                },
+                "wind": {
+                    "speed": 1.71,
+                    "deg": 240,
+                    "gust": 3.71
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-19 18:00:00"
+            },
+            {
+                "dt": 1676840400,
+                "main": {
+                    "temp": -1.36,
+                    "feels_like": -3.96,
+                    "temp_min": -1.47,
+                    "temp_max": -1.36,
+                    "pressure": 1025,
+                    "sea_level": 1025,
+                    "grnd_level": 1016,
+                    "humidity": 69,
+                    "temp_kf": 0.11
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "맑음",
+                        "icon": "01n"
+                    }
+                ],
+                "clouds": {
+                    "all": 0
+                },
+                "wind": {
+                    "speed": 1.94,
+                    "deg": 227,
+                    "gust": 4.16
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-19 21:00:00"
+            },
+            {
+                "dt": 1676851200,
+                "main": {
+                    "temp": 1.78,
+                    "feels_like": -1.25,
+                    "temp_min": 1.78,
+                    "temp_max": 1.78,
+                    "pressure": 1025,
+                    "sea_level": 1025,
+                    "grnd_level": 1016,
+                    "humidity": 60,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "맑음",
+                        "icon": "01d"
+                    }
+                ],
+                "clouds": {
+                    "all": 2
+                },
+                "wind": {
+                    "speed": 2.87,
+                    "deg": 254,
+                    "gust": 8.28
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-20 00:00:00"
+            },
+            {
+                "dt": 1676862000,
+                "main": {
+                    "temp": 3.86,
+                    "feels_like": -0.81,
+                    "temp_min": 3.86,
+                    "temp_max": 3.86,
+                    "pressure": 1025,
+                    "sea_level": 1025,
+                    "grnd_level": 1016,
+                    "humidity": 41,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "튼구름",
+                        "icon": "04d"
+                    }
+                ],
+                "clouds": {
+                    "all": 82
+                },
+                "wind": {
+                    "speed": 6.64,
+                    "deg": 306,
+                    "gust": 11.75
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-20 03:00:00"
+            },
+            {
+                "dt": 1676872800,
+                "main": {
+                    "temp": 2.26,
+                    "feels_like": -3.09,
+                    "temp_min": 2.26,
+                    "temp_max": 2.26,
+                    "pressure": 1025,
+                    "sea_level": 1025,
+                    "grnd_level": 1016,
+                    "humidity": 32,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 802,
+                        "main": "Clouds",
+                        "description": "구름조금",
+                        "icon": "03d"
+                    }
+                ],
+                "clouds": {
+                    "all": 42
+                },
+                "wind": {
+                    "speed": 7.21,
+                    "deg": 307,
+                    "gust": 10.65
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-20 06:00:00"
+            },
+            {
+                "dt": 1676883600,
+                "main": {
+                    "temp": -1.2,
+                    "feels_like": -6.69,
+                    "temp_min": -1.2,
+                    "temp_max": -1.2,
+                    "pressure": 1028,
+                    "sea_level": 1028,
+                    "grnd_level": 1018,
+                    "humidity": 44,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "맑음",
+                        "icon": "01d"
+                    }
+                ],
+                "clouds": {
+                    "all": 0
+                },
+                "wind": {
+                    "speed": 5.47,
+                    "deg": 306,
+                    "gust": 9.14
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-20 09:00:00"
+            },
+            {
+                "dt": 1676894400,
+                "main": {
+                    "temp": -2.83,
+                    "feels_like": -7.92,
+                    "temp_min": -2.83,
+                    "temp_max": -2.83,
+                    "pressure": 1030,
+                    "sea_level": 1030,
+                    "grnd_level": 1021,
+                    "humidity": 50,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "맑음",
+                        "icon": "01n"
+                    }
+                ],
+                "clouds": {
+                    "all": 0
+                },
+                "wind": {
+                    "speed": 4.22,
+                    "deg": 304,
+                    "gust": 8.81
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-20 12:00:00"
+            },
+            {
+                "dt": 1676905200,
+                "main": {
+                    "temp": -3.14,
+                    "feels_like": -7.71,
+                    "temp_min": -3.14,
+                    "temp_max": -3.14,
+                    "pressure": 1032,
+                    "sea_level": 1032,
+                    "grnd_level": 1022,
+                    "humidity": 48,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "맑음",
+                        "icon": "01n"
+                    }
+                ],
+                "clouds": {
+                    "all": 0
+                },
+                "wind": {
+                    "speed": 3.47,
+                    "deg": 309,
+                    "gust": 7.84
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-20 15:00:00"
+            },
+            {
+                "dt": 1676916000,
+                "main": {
+                    "temp": -3.43,
+                    "feels_like": -7.3,
+                    "temp_min": -3.43,
+                    "temp_max": -3.43,
+                    "pressure": 1032,
+                    "sea_level": 1032,
+                    "grnd_level": 1023,
+                    "humidity": 45,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "맑음",
+                        "icon": "01n"
+                    }
+                ],
+                "clouds": {
+                    "all": 0
+                },
+                "wind": {
+                    "speed": 2.69,
+                    "deg": 312,
+                    "gust": 6.19
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-20 18:00:00"
+            },
+            {
+                "dt": 1676926800,
+                "main": {
+                    "temp": -4.37,
+                    "feels_like": -7.6,
+                    "temp_min": -4.37,
+                    "temp_max": -4.37,
+                    "pressure": 1034,
+                    "sea_level": 1034,
+                    "grnd_level": 1024,
+                    "humidity": 46,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "맑음",
+                        "icon": "01n"
+                    }
+                ],
+                "clouds": {
+                    "all": 0
+                },
+                "wind": {
+                    "speed": 2.04,
+                    "deg": 297,
+                    "gust": 4.42
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-20 21:00:00"
+            },
+            {
+                "dt": 1676937600,
+                "main": {
+                    "temp": -2.54,
+                    "feels_like": -4.49,
+                    "temp_min": -2.54,
+                    "temp_max": -2.54,
+                    "pressure": 1035,
+                    "sea_level": 1035,
+                    "grnd_level": 1026,
+                    "humidity": 38,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "맑음",
+                        "icon": "01d"
+                    }
+                ],
+                "clouds": {
+                    "all": 0
+                },
+                "wind": {
+                    "speed": 1.41,
+                    "deg": 312,
+                    "gust": 2.41
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-21 00:00:00"
+            },
+            {
+                "dt": 1676948400,
+                "main": {
+                    "temp": 2.34,
+                    "feels_like": 2.34,
+                    "temp_min": 2.34,
+                    "temp_max": 2.34,
+                    "pressure": 1034,
+                    "sea_level": 1034,
+                    "grnd_level": 1025,
+                    "humidity": 25,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "맑음",
+                        "icon": "01d"
+                    }
+                ],
+                "clouds": {
+                    "all": 2
+                },
+                "wind": {
+                    "speed": 1.17,
+                    "deg": 356,
+                    "gust": 1.72
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-21 03:00:00"
+            },
+            {
+                "dt": 1676959200,
+                "main": {
+                    "temp": 4.19,
+                    "feels_like": 4.19,
+                    "temp_min": 4.19,
+                    "temp_max": 4.19,
+                    "pressure": 1033,
+                    "sea_level": 1033,
+                    "grnd_level": 1024,
+                    "humidity": 22,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "맑음",
+                        "icon": "01d"
+                    }
+                ],
+                "clouds": {
+                    "all": 1
+                },
+                "wind": {
+                    "speed": 1.1,
+                    "deg": 330,
+                    "gust": 0.97
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-21 06:00:00"
+            },
+            {
+                "dt": 1676970000,
+                "main": {
+                    "temp": 0.55,
+                    "feels_like": 0.55,
+                    "temp_min": 0.55,
+                    "temp_max": 0.55,
+                    "pressure": 1034,
+                    "sea_level": 1034,
+                    "grnd_level": 1025,
+                    "humidity": 34,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 802,
+                        "main": "Clouds",
+                        "description": "구름조금",
+                        "icon": "03d"
+                    }
+                ],
+                "clouds": {
+                    "all": 31
+                },
+                "wind": {
+                    "speed": 1.16,
+                    "deg": 335,
+                    "gust": 1.44
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-21 09:00:00"
+            },
+            {
+                "dt": 1676980800,
+                "main": {
+                    "temp": -2.16,
+                    "feels_like": -2.16,
+                    "temp_min": -2.16,
+                    "temp_max": -2.16,
+                    "pressure": 1035,
+                    "sea_level": 1035,
+                    "grnd_level": 1026,
+                    "humidity": 45,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 802,
+                        "main": "Clouds",
+                        "description": "구름조금",
+                        "icon": "03n"
+                    }
+                ],
+                "clouds": {
+                    "all": 27
+                },
+                "wind": {
+                    "speed": 0.45,
+                    "deg": 326,
+                    "gust": 0.51
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-21 12:00:00"
+            },
+            {
+                "dt": 1676991600,
+                "main": {
+                    "temp": -2.69,
+                    "feels_like": -2.69,
+                    "temp_min": -2.69,
+                    "temp_max": -2.69,
+                    "pressure": 1035,
+                    "sea_level": 1035,
+                    "grnd_level": 1026,
+                    "humidity": 49,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "튼구름",
+                        "icon": "04n"
+                    }
+                ],
+                "clouds": {
+                    "all": 81
+                },
+                "wind": {
+                    "speed": 0.25,
+                    "deg": 111,
+                    "gust": 0.37
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-21 15:00:00"
+            },
+            {
+                "dt": 1677002400,
+                "main": {
+                    "temp": -2.48,
+                    "feels_like": -2.48,
+                    "temp_min": -2.48,
+                    "temp_max": -2.48,
+                    "pressure": 1035,
+                    "sea_level": 1035,
+                    "grnd_level": 1026,
+                    "humidity": 48,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "튼구름",
+                        "icon": "04n"
+                    }
+                ],
+                "clouds": {
+                    "all": 83
+                },
+                "wind": {
+                    "speed": 0.68,
+                    "deg": 117,
+                    "gust": 0.73
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-21 18:00:00"
+            },
+            {
+                "dt": 1677013200,
+                "main": {
+                    "temp": -2.77,
+                    "feels_like": -2.77,
+                    "temp_min": -2.77,
+                    "temp_max": -2.77,
+                    "pressure": 1034,
+                    "sea_level": 1034,
+                    "grnd_level": 1025,
+                    "humidity": 47,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 802,
+                        "main": "Clouds",
+                        "description": "구름조금",
+                        "icon": "03n"
+                    }
+                ],
+                "clouds": {
+                    "all": 49
+                },
+                "wind": {
+                    "speed": 0.5,
+                    "deg": 117,
+                    "gust": 0.57
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-21 21:00:00"
+            },
+            {
+                "dt": 1677024000,
+                "main": {
+                    "temp": 0.7,
+                    "feels_like": 0.7,
+                    "temp_min": 0.7,
+                    "temp_max": 0.7,
+                    "pressure": 1035,
+                    "sea_level": 1035,
+                    "grnd_level": 1025,
+                    "humidity": 35,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 802,
+                        "main": "Clouds",
+                        "description": "구름조금",
+                        "icon": "03d"
+                    }
+                ],
+                "clouds": {
+                    "all": 25
+                },
+                "wind": {
+                    "speed": 0.54,
+                    "deg": 115,
+                    "gust": 0.76
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-22 00:00:00"
+            },
+            {
+                "dt": 1677034800,
+                "main": {
+                    "temp": 6.49,
+                    "feels_like": 5.85,
+                    "temp_min": 6.49,
+                    "temp_max": 6.49,
+                    "pressure": 1032,
+                    "sea_level": 1032,
+                    "grnd_level": 1023,
+                    "humidity": 27,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "튼구름",
+                        "icon": "04d"
+                    }
+                ],
+                "clouds": {
+                    "all": 58
+                },
+                "wind": {
+                    "speed": 1.34,
+                    "deg": 259,
+                    "gust": 2.57
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-22 03:00:00"
+            },
+            {
+                "dt": 1677045600,
+                "main": {
+                    "temp": 7.29,
+                    "feels_like": 5.25,
+                    "temp_min": 7.29,
+                    "temp_max": 7.29,
+                    "pressure": 1030,
+                    "sea_level": 1030,
+                    "grnd_level": 1021,
+                    "humidity": 33,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "튼구름",
+                        "icon": "04d"
+                    }
+                ],
+                "clouds": {
+                    "all": 74
+                },
+                "wind": {
+                    "speed": 3.01,
+                    "deg": 267,
+                    "gust": 3.94
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-22 06:00:00"
+            },
+            {
+                "dt": 1677056400,
+                "main": {
+                    "temp": 3.55,
+                    "feels_like": 1.65,
+                    "temp_min": 3.55,
+                    "temp_max": 3.55,
+                    "pressure": 1029,
+                    "sea_level": 1029,
+                    "grnd_level": 1020,
+                    "humidity": 53,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "온흐림",
+                        "icon": "04d"
+                    }
+                ],
+                "clouds": {
+                    "all": 100
+                },
+                "wind": {
+                    "speed": 2.03,
+                    "deg": 262,
+                    "gust": 3.65
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-22 09:00:00"
+            },
+            {
+                "dt": 1677067200,
+                "main": {
+                    "temp": 1.97,
+                    "feels_like": 1.97,
+                    "temp_min": 1.97,
+                    "temp_max": 1.97,
+                    "pressure": 1029,
+                    "sea_level": 1029,
+                    "grnd_level": 1020,
+                    "humidity": 60,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "온흐림",
+                        "icon": "04n"
+                    }
+                ],
+                "clouds": {
+                    "all": 100
+                },
+                "wind": {
+                    "speed": 0.86,
+                    "deg": 273,
+                    "gust": 0.88
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-22 12:00:00"
+            },
+            {
+                "dt": 1677078000,
+                "main": {
+                    "temp": 1.6,
+                    "feels_like": 1.6,
+                    "temp_min": 1.6,
+                    "temp_max": 1.6,
+                    "pressure": 1028,
+                    "sea_level": 1028,
+                    "grnd_level": 1019,
+                    "humidity": 63,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "온흐림",
+                        "icon": "04n"
+                    }
+                ],
+                "clouds": {
+                    "all": 100
+                },
+                "wind": {
+                    "speed": 0.63,
+                    "deg": 308,
+                    "gust": 0.67
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-22 15:00:00"
+            },
+            {
+                "dt": 1677088800,
+                "main": {
+                    "temp": 1.2,
+                    "feels_like": 1.2,
+                    "temp_min": 1.2,
+                    "temp_max": 1.2,
+                    "pressure": 1027,
+                    "sea_level": 1027,
+                    "grnd_level": 1018,
+                    "humidity": 65,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "온흐림",
+                        "icon": "04n"
+                    }
+                ],
+                "clouds": {
+                    "all": 100
+                },
+                "wind": {
+                    "speed": 0.35,
+                    "deg": 297,
+                    "gust": 0.48
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-22 18:00:00"
+            },
+            {
+                "dt": 1677099600,
+                "main": {
+                    "temp": 0.64,
+                    "feels_like": 0.64,
+                    "temp_min": 0.64,
+                    "temp_max": 0.64,
+                    "pressure": 1027,
+                    "sea_level": 1027,
+                    "grnd_level": 1018,
+                    "humidity": 69,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "온흐림",
+                        "icon": "04n"
+                    }
+                ],
+                "clouds": {
+                    "all": 100
+                },
+                "wind": {
+                    "speed": 0.65,
+                    "deg": 302,
+                    "gust": 0.74
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-22 21:00:00"
+            },
+            {
+                "dt": 1677110400,
+                "main": {
+                    "temp": 2.42,
+                    "feels_like": 2.42,
+                    "temp_min": 2.42,
+                    "temp_max": 2.42,
+                    "pressure": 1027,
+                    "sea_level": 1027,
+                    "grnd_level": 1018,
+                    "humidity": 61,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "온흐림",
+                        "icon": "04d"
+                    }
+                ],
+                "clouds": {
+                    "all": 98
+                },
+                "wind": {
+                    "speed": 0.56,
+                    "deg": 302,
+                    "gust": 1.07
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-23 00:00:00"
+            },
+            {
+                "dt": 1677121200,
+                "main": {
+                    "temp": 6.81,
+                    "feels_like": 5.19,
+                    "temp_min": 6.81,
+                    "temp_max": 6.81,
+                    "pressure": 1026,
+                    "sea_level": 1026,
+                    "grnd_level": 1017,
+                    "humidity": 42,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 802,
+                        "main": "Clouds",
+                        "description": "구름조금",
+                        "icon": "03d"
+                    }
+                ],
+                "clouds": {
+                    "all": 42
+                },
+                "wind": {
+                    "speed": 2.32,
+                    "deg": 321,
+                    "gust": 2.91
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-23 03:00:00"
+            },
+            {
+                "dt": 1677132000,
+                "main": {
+                    "temp": 9.01,
+                    "feels_like": 7.81,
+                    "temp_min": 9.01,
+                    "temp_max": 9.01,
+                    "pressure": 1023,
+                    "sea_level": 1023,
+                    "grnd_level": 1014,
+                    "humidity": 26,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 801,
+                        "main": "Clouds",
+                        "description": "약간의 구름이 낀 하늘",
+                        "icon": "02d"
+                    }
+                ],
+                "clouds": {
+                    "all": 21
+                },
+                "wind": {
+                    "speed": 2.28,
+                    "deg": 332,
+                    "gust": 2.53
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-23 06:00:00"
+            },
+            {
+                "dt": 1677142800,
+                "main": {
+                    "temp": 5.68,
+                    "feels_like": 4.22,
+                    "temp_min": 5.68,
+                    "temp_max": 5.68,
+                    "pressure": 1023,
+                    "sea_level": 1023,
+                    "grnd_level": 1014,
+                    "humidity": 45,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 802,
+                        "main": "Clouds",
+                        "description": "구름조금",
+                        "icon": "03d"
+                    }
+                ],
+                "clouds": {
+                    "all": 33
+                },
+                "wind": {
+                    "speed": 1.94,
+                    "deg": 340,
+                    "gust": 2.89
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-23 09:00:00"
+            },
+            {
+                "dt": 1677153600,
+                "main": {
+                    "temp": 3.11,
+                    "feels_like": 3.11,
+                    "temp_min": 3.11,
+                    "temp_max": 3.11,
+                    "pressure": 1024,
+                    "sea_level": 1024,
+                    "grnd_level": 1015,
+                    "humidity": 55,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "튼구름",
+                        "icon": "04n"
+                    }
+                ],
+                "clouds": {
+                    "all": 67
+                },
+                "wind": {
+                    "speed": 1.11,
+                    "deg": 342,
+                    "gust": 1.17
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-23 12:00:00"
+            },
+            {
+                "dt": 1677164400,
+                "main": {
+                    "temp": 2.15,
+                    "feels_like": 2.15,
+                    "temp_min": 2.15,
+                    "temp_max": 2.15,
+                    "pressure": 1024,
+                    "sea_level": 1024,
+                    "grnd_level": 1015,
+                    "humidity": 56,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "온흐림",
+                        "icon": "04n"
+                    }
+                ],
+                "clouds": {
+                    "all": 100
+                },
+                "wind": {
+                    "speed": 1.02,
+                    "deg": 352,
+                    "gust": 1.07
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-23 15:00:00"
+            },
+            {
+                "dt": 1677175200,
+                "main": {
+                    "temp": 1.94,
+                    "feels_like": 1.94,
+                    "temp_min": 1.94,
+                    "temp_max": 1.94,
+                    "pressure": 1023,
+                    "sea_level": 1023,
+                    "grnd_level": 1014,
+                    "humidity": 57,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "온흐림",
+                        "icon": "04n"
+                    }
+                ],
+                "clouds": {
+                    "all": 100
+                },
+                "wind": {
+                    "speed": 0.92,
+                    "deg": 1,
+                    "gust": 0.98
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-23 18:00:00"
+            },
+            {
+                "dt": 1677186000,
+                "main": {
+                    "temp": 1.65,
+                    "feels_like": 1.65,
+                    "temp_min": 1.65,
+                    "temp_max": 1.65,
+                    "pressure": 1022,
+                    "sea_level": 1022,
+                    "grnd_level": 1013,
+                    "humidity": 61,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "온흐림",
+                        "icon": "04n"
+                    }
+                ],
+                "clouds": {
+                    "all": 100
+                },
+                "wind": {
+                    "speed": 0.88,
+                    "deg": 23,
+                    "gust": 0.9
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-23 21:00:00"
+            },
+            {
+                "dt": 1677196800,
+                "main": {
+                    "temp": 3.76,
+                    "feels_like": 3.76,
+                    "temp_min": 3.76,
+                    "temp_max": 3.76,
+                    "pressure": 1023,
+                    "sea_level": 1023,
+                    "grnd_level": 1014,
+                    "humidity": 54,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "온흐림",
+                        "icon": "04d"
+                    }
+                ],
+                "clouds": {
+                    "all": 100
+                },
+                "wind": {
+                    "speed": 1.03,
+                    "deg": 354,
+                    "gust": 1.7
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-24 00:00:00"
+            },
+            {
+                "dt": 1677207600,
+                "main": {
+                    "temp": 8.23,
+                    "feels_like": 6.88,
+                    "temp_min": 8.23,
+                    "temp_max": 8.23,
+                    "pressure": 1023,
+                    "sea_level": 1023,
+                    "grnd_level": 1014,
+                    "humidity": 41,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "온흐림",
+                        "icon": "04d"
+                    }
+                ],
+                "clouds": {
+                    "all": 97
+                },
+                "wind": {
+                    "speed": 2.3,
+                    "deg": 324,
+                    "gust": 2.5
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-24 03:00:00"
+            },
+            {
+                "dt": 1677218400,
+                "main": {
+                    "temp": 9.38,
+                    "feels_like": 7.35,
+                    "temp_min": 9.38,
+                    "temp_max": 9.38,
+                    "pressure": 1022,
+                    "sea_level": 1022,
+                    "grnd_level": 1013,
+                    "humidity": 39,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "온흐림",
+                        "icon": "04d"
+                    }
+                ],
+                "clouds": {
+                    "all": 93
+                },
+                "wind": {
+                    "speed": 3.78,
+                    "deg": 315,
+                    "gust": 4.55
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-24 06:00:00"
+            },
+            {
+                "dt": 1677229200,
+                "main": {
+                    "temp": 5.4,
+                    "feels_like": 2.47,
+                    "temp_min": 5.4,
+                    "temp_max": 5.4,
+                    "pressure": 1023,
+                    "sea_level": 1023,
+                    "grnd_level": 1014,
+                    "humidity": 52,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "튼구름",
+                        "icon": "04d"
+                    }
+                ],
+                "clouds": {
+                    "all": 66
+                },
+                "wind": {
+                    "speed": 3.79,
+                    "deg": 312,
+                    "gust": 7.07
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "d"
+                },
+                "dt_txt": "2023-02-24 09:00:00"
+            },
+            {
+                "dt": 1677240000,
+                "main": {
+                    "temp": 2.36,
+                    "feels_like": 0.16,
+                    "temp_min": 2.36,
+                    "temp_max": 2.36,
+                    "pressure": 1025,
+                    "sea_level": 1025,
+                    "grnd_level": 1016,
+                    "humidity": 61,
+                    "temp_kf": 0
+                },
+                "weather": [
+                    {
+                        "id": 802,
+                        "main": "Clouds",
+                        "description": "구름조금",
+                        "icon": "03n"
+                    }
+                ],
+                "clouds": {
+                    "all": 34
+                },
+                "wind": {
+                    "speed": 2.12,
+                    "deg": 277,
+                    "gust": 4.45
+                },
+                "visibility": 10000,
+                "pop": 0,
+                "sys": {
+                    "pod": "n"
+                },
+                "dt_txt": "2023-02-24 12:00:00"
+            }
+        ],
+        "city": {
+            "id": 1835224,
+            "name": "Daejeon",
+            "coord": {
+                "lat": 36.3489,
+                "lon": 127.4418
+            },
+            "country": "KR",
+            "population": 1475221,
+            "timezone": 32400,
+            "sunrise": 1676758471,
+            "sunset": 1676798044
+        }
+    },
+    "status": 200,
+    "statusText": "OK",
+    "headers": {
+        "content-length": "15604",
+        "content-type": "application/json; charset=utf-8"
+    },
+    "config": {
+        "transitional": {
+            "silentJSONParsing": true,
+            "forcedJSONParsing": true,
+            "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+            "Accept": "application/json, text/plain, */*"
+        },
+        "params": {
+            "lat": 36.3528192,
+            "lon": 127.4413056,
+            "units": "metric",
+            "lang": "kr",
+            "appid": "54fa7c72e516bb1974422ea940ddc248"
+        },
+        "method": "get",
+        "url": "https://api.openweathermap.org/data/2.5/forecast"
+    },
+    "request": {}
+}

@@ -1,0 +1,81 @@
+{
+    "data": {
+        "coord": {
+            "lon": 127.438,
+            "lat": 36.3561
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "온흐림",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 3.47,
+            "feels_like": 21,
+            "temp_min": 3.47,
+            "temp_max": 3.47,
+            "pressure": 1030,
+            "humidity": 77,
+            "sea_level": 1030,
+            "grnd_level": 1020
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 0.97,
+            "deg": 126,
+            "gust": 1.83
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1676452116,
+        "sys": {
+            "country": "KR",
+            "sunrise": 1676413145,
+            "sunset": 1676452199
+        },
+        "timezone": 32400,
+        "id": 1835224,
+        "name": "Daejeon",
+        "cod": 200
+    },
+    "status": 200,
+    "statusText": "OK",
+    "headers": {
+        "content-length": "492",
+        "content-type": "application/json; charset=utf-8"
+    },
+    "config": {
+        "transitional": {
+            "silentJSONParsing": true,
+            "forcedJSONParsing": true,
+            "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+            "Accept": "application/json, text/plain, */*"
+        },
+        "params": {
+            "lat": 36.356096,
+            "lon": 127.4380288,
+            "units": "metric",
+            "lang": "kr",
+            "appid": "54fa7c72e516bb1974422ea940ddc248"
+        },
+        "method": "get",
+        "url": "https://api.openweathermap.org/data/2.5/weather"
+    },
+    "request": {}
+}

@@ -1,0 +1,34 @@
+.clock {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.clock .date_box p {
+    font-size: 20px;
+    color: white;
+}
+
+.clock .clock_box {
+    display: flex;
+
+    align-items: flex-end;
+}
+
+.clock .clock_box .am_pm {
+    font-size: 20px;
+    color: white;
+}
+
+.clock .clock_box .time {
+    font-size: 25px;
+    color: white;
+}
+
+.clock .week {
+    font-size: 25px;
+    color: white;
+}
