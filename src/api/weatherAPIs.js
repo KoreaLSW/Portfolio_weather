@@ -14,7 +14,10 @@ navigator.geolocation.getCurrentPosition(
         lat = value.coords.latitude;
         lon = value.coords.longitude;
     },
-    (error) => {},
+    (error) => {
+        alert('위치 엑세스를 허용해 주세요...');
+        console.error('위치 엑세스를 허용해 주세요...');
+    },
     options
 );
 
@@ -29,7 +32,6 @@ export function locationlon() {
 }
 
 export function toDayWeather() {
-    console.log('toDayWeather');
     //return axios.get('/json/toDayWeather.json');
     return axios.get('https://api.openweathermap.org/data/2.5/weather', {
         params: {
