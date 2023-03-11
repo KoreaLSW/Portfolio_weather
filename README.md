@@ -58,9 +58,12 @@ https://friendly-torrone-28699c.netlify.app/
  
 #### 🎥 프로젝트 영상
 
-|웹페이지|모바일페이지|
-|------|---|
-|![youtube (1) (1) (1)](https://user-images.githubusercontent.com/89916970/224364664-47e01a7a-70b7-4200-aa85-6d70bfa63ee2.gif)|![모바일유투브 (1) (1)](https://user-images.githubusercontent.com/89916970/224376924-7d432a43-f5bc-4a19-9af8-29775fad52b0.gif)|
+|웹페이지|
+|------|
+|![youtube (1) (1) (1)](https://user-images.githubusercontent.com/89916970/224364664-47e01a7a-70b7-4200-aa85-6d70bfa63ee2.gif)|
+![날씨알리미01](https://user-images.githubusercontent.com/89916970/224506132-da3db601-c3a2-4b61-9dad-5783c15418e6.png)|
+![날씨알리미02](https://user-images.githubusercontent.com/89916970/224506135-d959b19d-9f49-481d-98ef-128fe72a93f1.png)|
+![날씨알리미03](https://user-images.githubusercontent.com/89916970/224506136-80fad40a-225c-4603-b2dd-f55d03c37592.png)|
 
 
 #### ✨ 느낀점
