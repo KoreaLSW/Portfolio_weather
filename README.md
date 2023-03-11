@@ -64,9 +64,7 @@ https://friendly-torrone-28699c.netlify.app/
 
 
 #### ✨ 느낀점
-+ YouTuBeAPI 공식 문서를 읽으며 프로젝트를 만들면서 API를 통한 네트워크통신에 많은 도움이 되었습니다.
-+ React의 랜더링이 어떤식으로 흘러가는지 알게되었습니다.
-+ Tanstack Query을 사용하면서 비동기통신을 간단하게 하는 방법을 알게되었습니다.
++ OpenWeather API의 데이터를 TanStack Query를 사용하여 JSON형식으로 받아와서 
 
 
 
