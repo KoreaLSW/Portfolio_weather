@@ -69,8 +69,7 @@ https://friendly-torrone-28699c.netlify.app/
 ![날씨알리미03](https://user-images.githubusercontent.com/89916970/224506136-80fad40a-225c-4603-b2dd-f55d03c37592.png)|
 
 
-#### ✨ 느낀점
-+ OpenWeather API의 데이터를 TanStack Query를 사용하여 JSON형식으로 받아와서 
+
 
 
 
